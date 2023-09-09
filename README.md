@@ -12,6 +12,6 @@ This is to be used to learn Git-based development.
 * An Internet connection
 * Power supply
 
-### This is Heading 3
+# additions
 
-### This is Heading 4
+This sentence was written by me
